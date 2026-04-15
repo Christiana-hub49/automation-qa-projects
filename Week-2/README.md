@@ -20,6 +20,5 @@ This week focuses on understanding how Java controls the flow of a program using
 
 ✔ Control Statements  
 ✔ Loops  
-⬜ Arrays (Next)
+✔  Arrays 
 
----
