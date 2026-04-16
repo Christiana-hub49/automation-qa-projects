@@ -27,7 +27,12 @@ This week focuses on understanding how Java controls the flow of a program using
 - `control-statements/` → Practice on if, else, switch  
 - `loops/` → Loop concepts and exercises  
 - `practice/` → Additional exercises  
-- `oop/` → OOP exercises (Phone Bill, Fruit Market, Farm)
+
+  ### OOP Exercises
+
+- Phone Bill (Constructor Overloading)
+- Fruit Market (Polymorphism)
+- Farm (Abstraction)
 
 
 ## Progress
